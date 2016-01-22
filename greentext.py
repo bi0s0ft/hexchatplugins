@@ -1,7 +1,7 @@
 import hexchat
 
 __module_name__ = ">greentext"
-__module_version__ = "1.0.1.3"
+__module_version__ = "1.0.1.4"
 __module_description__ = "adds 4chan style greentext to hexchat"
 
 
